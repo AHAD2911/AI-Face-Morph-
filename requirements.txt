@@ -1,5 +1,8 @@
 fastapi
 uvicorn
-opencv-python
 numpy
+opencv-python
+mediapipe
+streamlit
+Pillow
 python-multipart
