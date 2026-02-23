@@ -21,8 +21,8 @@ An advanced AI-powered face merging tool built with Python. This project utilize
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AHAD2911/face_merge-.git
-   cd face_merge-
+   git clone https://github.com/AHAD2911/AI-Face-Morph-.git
+   cd AI-Face-Morph-
    ```
 
 2. Create a virtual environment (optional but recommended):
